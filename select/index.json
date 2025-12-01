@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Time Slipping Away",
+  "base_artist": "KAWALA",
+  "createdAt": "2025-12-01T08:48:18.148677Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Time Slipping Away",
+      "artist": "KAWALA",
+      "has_synced": true,
+      "path": "select/01_Time_Slipping_Away_KAWALA.lrc"
+    }
+  ]
+}
